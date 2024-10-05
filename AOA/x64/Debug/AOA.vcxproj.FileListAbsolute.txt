@@ -1,0 +1,10 @@
+K:\AOA\AOA\x64\Debug\sfml-graphics-d-2.dll
+K:\AOA\AOA\x64\Debug\sfml-window-d-2.dll
+K:\AOA\AOA\x64\Debug\sfml-system-d-2.dll
+K:\AOA\AOA\x64\Debug\freetyped.dll
+K:\AOA\AOA\x64\Debug\zlibd1.dll
+K:\AOA\AOA\x64\Debug\bz2d.dll
+K:\AOA\AOA\x64\Debug\libpng16d.dll
+K:\AOA\AOA\x64\Debug\brotlidec.dll
+K:\AOA\AOA\x64\Debug\brotlicommon.dll
+K:\AOA\AOA\AOA\x64\Debug\AOA.vcxproj.Up2Date
