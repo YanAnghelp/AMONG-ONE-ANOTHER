@@ -1,0 +1,56 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AOA\\x64\\Debug\\logger.ixx.obj",
+            "outputs": [
+                "K:\\AOA\\AOA\\AOA\\x64\\Debug\\vc143.pdb",
+                "AOA\\x64\\Debug\\",
+                "K:\\AOA\\AOA\\AOA\\x64\\Debug\\logger.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "logger",
+                    "source-path": "k:\\aoa\\aoa\\logger.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "connector"
+                },
+                {
+                    "logical-name": "Windows.h",
+                    "source-path": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\um\\Windows.h",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "fstream",
+                    "source-path": "H:\\Visual Studio Community IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\fstream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "filesystem",
+                    "source-path": "H:\\Visual Studio Community IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\filesystem",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "chiper.h",
+                    "source-path": "K:\\AOA\\AOA\\chiper.h",
+                    "lookup-method": "include-quote",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "global.h",
+                    "source-path": "K:\\AOA\\AOA\\global.h",
+                    "lookup-method": "include-quote",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

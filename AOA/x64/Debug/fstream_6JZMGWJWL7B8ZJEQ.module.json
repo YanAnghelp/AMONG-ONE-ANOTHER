@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AOA\\x64\\Debug\\fstream_6JZMGWJWL7B8ZJEQ.obj",
+            "outputs": [
+                "K:\\AOA\\AOA\\AOA\\x64\\Debug\\vc143.pdb",
+                "AOA\\x64\\Debug\\fstream_6JZMGWJWL7B8ZJEQ.module.json",
+                "AOA\\x64\\Debug\\fstream_6JZMGWJWL7B8ZJEQ.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "H:\\Visual Studio Community IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\fstream",
+                    "source-path": "h:\\visual studio community ide\\vc\\tools\\msvc\\14.41.34120\\include\\fstream",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

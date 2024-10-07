@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "k:\\aoa\\aoa\\connector.ixx",
+        "ProvidedModule": "connector",
+        "ImportedModules": [
+            "logger"
+        ],
+        "ImportedHeaderUnits": [
+            "H:\\Visual Studio Community IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\iostream",
+            "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\um\\Windows.h",
+            "H:\\Visual Studio Community IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\mutex",
+            "H:\\Visual Studio Community IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\string",
+            "K:\\AOA\\AOA\\chiper.h"
+        ]
+    }
+}

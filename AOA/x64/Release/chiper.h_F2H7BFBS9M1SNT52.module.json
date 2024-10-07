@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AOA\\x64\\Release\\chiper.h_F2H7BFBS9M1SNT52.obj",
+            "outputs": [
+                "K:\\AOA\\AOA\\AOA\\x64\\Release\\vc143.pdb",
+                "AOA\\x64\\Release\\chiper.h_F2H7BFBS9M1SNT52.module.json",
+                "AOA\\x64\\Release\\chiper.h_F2H7BFBS9M1SNT52.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "K:\\AOA\\AOA\\chiper.h",
+                    "source-path": "k:\\aoa\\aoa\\chiper.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

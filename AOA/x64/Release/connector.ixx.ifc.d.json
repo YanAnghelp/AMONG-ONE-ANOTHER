@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "k:\\aoa\\aoa\\connector.ixx",
+        "ProvidedModule": "connector",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "logger",
+                "BMI": "K:\\AOA\\AOA\\AOA\\x64\\Release\\logger.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "h:\\visual studio community ide\\vc\\tools\\msvc\\14.41.34120\\include\\iostream",
+                "BMI": "K:\\AOA\\AOA\\AOA\\x64\\Release\\iostream_033W9SQ88YZI1171.ifc"
+            },
+            {
+                "Header": "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\um\\windows.h",
+                "BMI": "K:\\AOA\\AOA\\AOA\\x64\\Release\\Windows.h_TT7YP9O2U78WVGDC.ifc"
+            },
+            {
+                "Header": "h:\\visual studio community ide\\vc\\tools\\msvc\\14.41.34120\\include\\mutex",
+                "BMI": "K:\\AOA\\AOA\\AOA\\x64\\Release\\mutex_1LS3HCH2V27E3696.ifc"
+            },
+            {
+                "Header": "h:\\visual studio community ide\\vc\\tools\\msvc\\14.41.34120\\include\\string",
+                "BMI": "K:\\AOA\\AOA\\AOA\\x64\\Release\\string_CDUVZ5N1Y7XPYWZF.ifc"
+            },
+            {
+                "Header": "k:\\aoa\\aoa\\chiper.h",
+                "BMI": "K:\\AOA\\AOA\\AOA\\x64\\Release\\chiper.h_F2H7BFBS9M1SNT52.ifc"
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "k:\\aoa\\aoa\\connector.ixx",
+        "ProvidedModule": "connector",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\um\\Windows.h",
+            "K:\\AOA\\AOA\\chiper.h",
+            "K:\\AOA\\AOA\\global.h"
+        ]
+    }
+}

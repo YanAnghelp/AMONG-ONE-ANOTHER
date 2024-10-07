@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AOA\\x64\\Release\\filesystem_ZN3KQXOQOTZAYF6K.obj",
+            "outputs": [
+                "K:\\AOA\\AOA\\AOA\\x64\\Release\\vc143.pdb",
+                "AOA\\x64\\Release\\filesystem_ZN3KQXOQOTZAYF6K.module.json",
+                "AOA\\x64\\Release\\filesystem_ZN3KQXOQOTZAYF6K.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "H:\\Visual Studio Community IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\filesystem",
+                    "source-path": "h:\\visual studio community ide\\vc\\tools\\msvc\\14.41.34120\\include\\filesystem",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

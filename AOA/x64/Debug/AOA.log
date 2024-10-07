@@ -1,2 +1,7 @@
-﻿  LINK : 没有找到 K:\AOA\AOA\x64\Debug\AOA.exe 或上一个增量链接没有生成它；正在执行完全链接
+﻿  正在扫描源以查找模块依赖项...
+  data.cpp
+  game.cpp
+  main.cpp
+K:\AOA\AOA\main.cpp(20,1): warning C4102: “start”: 未引用的标签
+  正在生成代码...
   AOA.vcxproj -> K:\AOA\AOA\x64\Debug\AOA.exe

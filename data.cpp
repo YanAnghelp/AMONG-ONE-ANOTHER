@@ -2,10 +2,8 @@
 // 
 // Powred By Yan
 
-#include <iostream>
 #include <mutex>
-
-#include "data.h"
+import logger;
 
 struct {
 	int TESTdata;

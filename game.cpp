@@ -1,8 +1,12 @@
+// 游戏画面核心代码
+//
+// Powred By Yan
+
 #include <iostream>
-#include <SFML/Window.hpp>
+
 #include "game.h"
 
-Game::Game() : _window(sf::VideoMode(800, 600), "02_Game_Archi"),
+Game::Game() : _window(sf::VideoMode(800, 600), "AMONG ONE ANOTHER"),
 _player(150) {
     _player.setFillColor(sf::Color::Blue);
     _player.setPosition(10, 20);
@@ -26,7 +30,9 @@ void Game::processEvents() {
     }
 }
 
-void Game::update() {}
+void Game::update() {
+
+}
 
 void Game::render() {
     _window.clear();

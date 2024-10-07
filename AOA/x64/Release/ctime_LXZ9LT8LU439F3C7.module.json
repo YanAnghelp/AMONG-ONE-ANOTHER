@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AOA\\x64\\Release\\ctime_LXZ9LT8LU439F3C7.obj",
+            "outputs": [
+                "K:\\AOA\\AOA\\AOA\\x64\\Release\\vc143.pdb",
+                "AOA\\x64\\Release\\ctime_LXZ9LT8LU439F3C7.module.json",
+                "AOA\\x64\\Release\\ctime_LXZ9LT8LU439F3C7.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "H:\\Visual Studio Community IDE\\VC\\Tools\\MSVC\\14.41.34120\\include\\ctime",
+                    "source-path": "h:\\visual studio community ide\\vc\\tools\\msvc\\14.41.34120\\include\\ctime",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

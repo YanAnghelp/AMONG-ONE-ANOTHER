@@ -1,3 +1,8 @@
+// Game 核心类头文件
+// 未采用离散编译，不得引用此头文件！
+// 
+// Powerd By Yan
+
 #pragma once
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
@@ -15,3 +20,5 @@ private:
     sf::RenderWindow _window;
     sf::CircleShape  _player;
 };
+
+// END

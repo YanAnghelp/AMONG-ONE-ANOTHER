@@ -24,18 +24,24 @@
     <ClCompile Include="data.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="logger.cpp">
+    <ClCompile Include="chiper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="connector.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="console.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="logger.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="global.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="game.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="data.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="console.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="resource.h">
@@ -44,7 +50,7 @@
     <ClInclude Include="chiper.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="logger.h">
+    <ClInclude Include="global.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AOA\\x64\\Release\\Windows.h_TT7YP9O2U78WVGDC.obj",
+            "outputs": [
+                "K:\\AOA\\AOA\\AOA\\x64\\Release\\vc143.pdb",
+                "AOA\\x64\\Release\\Windows.h_TT7YP9O2U78WVGDC.module.json",
+                "AOA\\x64\\Release\\Windows.h_TT7YP9O2U78WVGDC.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\um\\Windows.h",
+                    "source-path": "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\um\\windows.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

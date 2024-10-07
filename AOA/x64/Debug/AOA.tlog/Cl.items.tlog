@@ -1,4 +1,14 @@
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\Windows.h;K:\AOA\AOA\AOA\x64\Debug\Windows.h_TT7YP9O2U78WVGDC.obj
+K:\AOA\AOA\chiper.h;K:\AOA\AOA\AOA\x64\Debug\chiper.h_F2H7BFBS9M1SNT52.obj
+K:\AOA\AOA\global.h;K:\AOA\AOA\AOA\x64\Debug\global.h_XQUNWAMLXGZHHC1M.obj
+H:\Visual Studio Community IDE\VC\Tools\MSVC\14.41.34120\include\sstream;K:\AOA\AOA\AOA\x64\Debug\sstream_9ORQUX1JQHFCFI1H.obj
+H:\Visual Studio Community IDE\VC\Tools\MSVC\14.41.34120\include\fstream;K:\AOA\AOA\AOA\x64\Debug\fstream_6JZMGWJWL7B8ZJEQ.obj
+H:\Visual Studio Community IDE\VC\Tools\MSVC\14.41.34120\include\filesystem;K:\AOA\AOA\AOA\x64\Debug\filesystem_ZN3KQXOQOTZAYF6K.obj
+K:\AOA\AOA\chiper.cpp;K:\AOA\AOA\AOA\x64\Debug\chiper.obj
+K:\AOA\AOA\connector.ixx;K:\AOA\AOA\AOA\x64\Debug\connector.ixx.obj
+K:\AOA\AOA\console.ixx;K:\AOA\AOA\AOA\x64\Debug\console.ixx.obj
 K:\AOA\AOA\data.cpp;K:\AOA\AOA\AOA\x64\Debug\data.obj
 K:\AOA\AOA\game.cpp;K:\AOA\AOA\AOA\x64\Debug\game.obj
-K:\AOA\AOA\logger.cpp;K:\AOA\AOA\AOA\x64\Debug\logger.obj
+K:\AOA\AOA\global.cpp;K:\AOA\AOA\AOA\x64\Debug\global.obj
+K:\AOA\AOA\logger.ixx;K:\AOA\AOA\AOA\x64\Debug\logger.ixx.obj
 K:\AOA\AOA\main.cpp;K:\AOA\AOA\AOA\x64\Debug\main.obj
