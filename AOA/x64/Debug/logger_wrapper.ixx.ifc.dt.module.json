@@ -1,9 +1,0 @@
-{
-    "Version": "1.1",
-    "Data": {
-        "Source": "k:\\aoa\\aoa\\logger_wrapper.ixx",
-        "ProvidedModule": "wrapper",
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
-    }
-}
